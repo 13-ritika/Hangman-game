@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb  4 22:43:59 2021
-
-@author: Ritika
-"""
 import random   
 def hangman(life):    
     print("\nWrong guess\n")
